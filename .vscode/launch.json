@@ -1,0 +1,378 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch MyCanvas",
+      "request": "launch",
+      "mainClass": "MyCanvas",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch MyCanvas",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.MyCanvas",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch code1",
+      "request": "launch",
+      "mainClass": "Challenges.Examples.code1",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch code2",
+      "request": "launch",
+      "mainClass": "Challenges.Examples.code2",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercice",
+      "request": "launch",
+      "mainClass": "Challenges.Examples.exercice",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch poundsToKG",
+      "request": "launch",
+      "mainClass": "Challenges.Examples.poundsToKG",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch SecondsAndMinutes",
+      "request": "launch",
+      "mainClass": "Challenges.section4.SecondsAndMinutes",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch areas",
+      "request": "launch",
+      "mainClass": "Challenges.section4.areas",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch barkingDog",
+      "request": "launch",
+      "mainClass": "Challenges.section4.barkingDog",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch byes",
+      "request": "launch",
+      "mainClass": "Challenges.section4.byes",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch decimal",
+      "request": "launch",
+      "mainClass": "Challenges.section4.decimal",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch equalityPrinter",
+      "request": "launch",
+      "mainClass": "Challenges.section4.equalityPrinter",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch leapYear",
+      "request": "launch",
+      "mainClass": "Challenges.section4.leapYear",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch main",
+      "request": "launch",
+      "mainClass": "Challenges.section4.main",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch minutesToYears",
+      "request": "launch",
+      "mainClass": "Challenges.section4.minutesToYears",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch playingCat",
+      "request": "launch",
+      "mainClass": "Challenges.section4.playingCat",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch sumChecker",
+      "request": "launch",
+      "mainClass": "Challenges.section4.sumChecker",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch teenChecker",
+      "request": "launch",
+      "mainClass": "Challenges.section4.teenChecker",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch odd",
+      "request": "launch",
+      "mainClass": "Challenges.section5.forsta.odd",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch one",
+      "request": "launch",
+      "mainClass": "Challenges.section5.forsta.one",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch sum1_1000",
+      "request": "launch",
+      "mainClass": "Challenges.section5.forsta.sum1_1000",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch days",
+      "request": "launch",
+      "mainClass": "Challenges.section5.switchta.days",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch numbers",
+      "request": "launch",
+      "mainClass": "Challenges.section5.switchta.numbers",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch numbersOfDays",
+      "request": "launch",
+      "mainClass": "Challenges.section5.switchta.numbersOfDays",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ImageJFrame",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.ImageJFrame",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Palindrome",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.Palindrome",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringToNumbers",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.StringToNumbers",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch allFacotr",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.allFacotr",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch array",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.array",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch commonDivisor",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.commonDivisor",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch dowhileexa",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.dowhileexa",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch evenNumber",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.evenNumber",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch evenSum",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.evenSum",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch flourPackProblem",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.flourPackProblem",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch largestPrime",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.largestPrime",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch lastDigit",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.lastDigit",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch numeroPerfecto",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.numeroPerfecto",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch numerosAPalabras",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.numerosAPalabras",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch sharedDigits",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.sharedDigits",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch sumDigit",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.sumDigit",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch sumFirstAndLastDIgit",
+      "request": "launch",
+      "mainClass": "Challenges.section5.whilesta.sumFirstAndLastDIgit",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "expression_and_statement.hello",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch keywords",
+      "request": "launch",
+      "mainClass": "expression_and_statement.keywords",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch methodsOverloading",
+      "request": "launch",
+      "mainClass": "expression_and_statement.methodsOverloading",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch whitespaces",
+      "request": "launch",
+      "mainClass": "expression_and_statement.whitespaces",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch cadenas",
+      "request": "launch",
+      "mainClass": "first_steps.cadenas",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch if_statement",
+      "request": "launch",
+      "mainClass": "first_steps.if_statement",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch logical_operators",
+      "request": "launch",
+      "mainClass": "first_steps.logical_operators",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch operands",
+      "request": "launch",
+      "mainClass": "first_steps.operands",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch operatorRecap",
+      "request": "launch",
+      "mainClass": "first_steps.operatorRecap",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ternary_operator",
+      "request": "launch",
+      "mainClass": "first_steps.ternary_operator",
+      "projectName": "UdemyJava_44d0f41d"
+    },
+    {
+      "type": "java",
+      "name": "Launch SwitchStatement",
+      "request": "launch",
+      "mainClass": "flowStatements.SwitchStatement",
+      "projectName": "UdemyJava_44d0f41d"
+    }
+  ]
+}
