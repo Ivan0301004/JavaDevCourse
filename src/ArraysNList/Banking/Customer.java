@@ -3,8 +3,8 @@ package ArraysNList.Banking;
 import java.util.ArrayList;
 
 public class Customer {
-  private String name;
-  private ArrayList<Double> transactions;
+  private final String name;
+  private final ArrayList<Double> transactions;
 
   public Customer(String name, double initialAmount){
     this.name = name;
@@ -20,11 +20,8 @@ public class Customer {
     return name;
   }
 
-  public ArrayList<Double> transactions(){
-    return transactions;
+  public ArrayList<Double>  getTransactions(){
+    return this.transactions;
   }
-
-
-
 
 }
