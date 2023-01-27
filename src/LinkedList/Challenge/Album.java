@@ -2,6 +2,7 @@ package LinkedList.Challenge;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 
 public class Album {
     private String name;
@@ -31,7 +32,7 @@ public class Album {
         return false;
     }
 
-    public boolean addToPlayList(int trackNumber, LinkedList<Song> playlist) {
+    public boolean addToPlayList(int trackNumber, List<Song> playlist) {
         int index = trackNumber - 1;
         if (index >= 0 && index <= this.songs.size()) {
             playlist.add(this.songs.get(index));
@@ -42,7 +43,7 @@ public class Album {
         }
     }
 
-    public boolean addToPlayList(String title, LinkedList<Song> playlist) {
+    public boolean addToPlayList(String title, List<Song> playlist) {
         Song chceckSong = findSong(title);
         if (chceckSong != null) {
             playlist.add(chceckSong);

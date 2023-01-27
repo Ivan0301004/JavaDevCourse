@@ -2,8 +2,9 @@ package LinkedList.Challenge;
 
 import java.util.*;
 
+
 public class Main {
-    private static final ArrayList<Album> albums = new ArrayList<Album>();
+    private static final List<Album> albums = new ArrayList<Album>();
 
     public static void main(String[] args) {
         Album album = new Album("Fortitude", "Gojira");
@@ -24,7 +25,7 @@ public class Main {
         album.addSong("The Patient", 7.34);
         albums.add(album);
 
-        LinkedList<Song> playlist = new LinkedList<Song>();
+        List<Song> playlist = new Vector<Song>();
         albums.get(0).addToPlayList("The Chant", playlist);
         albums.get(0).addToPlayList("Sphinx", playlist);
         albums.get(0).addToPlayList("Amazonia", playlist);
@@ -38,9 +39,9 @@ public class Main {
 
         play(playlist);
     }
-    
 
-    private static void play(LinkedList<Song> playList) {
+
+    private static void play(List<Song> playList) {
         Scanner scanner = new Scanner(System.in);
         boolean quit = false;
         boolean forward = true;
@@ -131,17 +132,18 @@ public class Main {
     private static void printMenu() {
         System.out.println("Available actions");
         System.out.println("""
-                0 - To quit
-                1 - To Play Next Song
-                2 - To Play Previous Song
-                3 - Replay Current Song
-                4 - To Print List Song In The Playlist
-                5 - To Print Menu
-                6 - To Remove Current Song From The Playlist
-                """);
+            0 - To quit
+            1 - To Play Next Song
+            2 - To Play Previous Song
+            3 - Replay Current Song
+            4 - To Print List Song In The Playlist
+            5 - To Print Menu
+            6 - To Remove Current Song From The Playlist
+            """);
     }
 
-    private static void printList(LinkedList<Song> playlist) {
+
+    private static void printList(List<Song> playlist) {
         Iterator<Song> iterator = playlist.iterator();
         System.out.println("================================");
         while (iterator.hasNext()) {
@@ -150,3 +152,4 @@ public class Main {
         System.out.println("================================");
     }
 }
+
